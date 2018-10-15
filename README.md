@@ -1,7 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://colab.research.google.com/"><img src=" ![alt text](https://raw.githubusercontent.com/riavinod/google-colab/master/images/logo.png)
-" alt="" width="200"></a>
+  <a href="https://colab.research.google.com/"><img src=" Screen Shot 2018-10-15 at 12.05.30 PM.png" alt="" width="200"></a>
   <br>
   Working with Google Colab
   <br>
